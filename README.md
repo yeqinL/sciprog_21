@@ -23,8 +23,8 @@ Capture the output of the `git status` and `git log` commands ( eg. `git log > g
 We are looking for stepwise development by committing code (and comments) on a regular basis. Marks will be deducted for;
 - Not commenting your code and poorly maintained/updated repositories
 - Uploaded code does not compile/unable to run
-= Ambiguous commit messages
-= All-in-one commit/push (i.e. uploading everything at once)
+- Ambiguous commit messages
+- All-in-one commit/push (i.e. uploading everything at once)
 
 NB: This repository should only be used for the practical sessions covered in the live demo sessions ONLY. Assignments 1 & 2 should not be added to the repo. If the regular assignments are uploaded to your repository then you will receive 0% for this assignment. Other assignments must be uploaded **separately** onto Brightspace or Blackboard.
 
