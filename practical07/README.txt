@@ -1,0 +1,1 @@
+In this week's practical, I created Taylor.c firstly by myself and realized the polynomial. And in this version, I created functions to allocate memory dynamically and using functions to realize all the operations like print, calculate the result. Besides, I also wrote the version on the practical video and created mem_alloc.c to realize dynamic memory allocation.
